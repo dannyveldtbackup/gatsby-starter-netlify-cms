@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: dannyveldtbackup/gatsby-starter-netlify-cms
-  branch: master
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
