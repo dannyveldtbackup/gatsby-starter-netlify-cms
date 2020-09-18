@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Test message
-image: /img/home-jumbotron.jpg
+title: Hello World
+image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
