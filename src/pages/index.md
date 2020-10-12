@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hello World
+title: ABC 20201012
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
